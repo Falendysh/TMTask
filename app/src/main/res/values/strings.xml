@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TMTask</string>
+
+    <string name="title_section1">Facebook</string>
+    <string name="title_section2">Google+</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1028085730568757</string>
+    <string name="title_activity_friend_list">FriendListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_friend_detail">FriendDetailActivity</string>
+</resources>
